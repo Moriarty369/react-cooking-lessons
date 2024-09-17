@@ -1,0 +1,6 @@
+.slider-ctn {
+  width: 100%;
+  max-width: 100vw; /* Asegura que ocupe el ancho completo de la ventana */
+  overflow: hidden;
+  background: linear-gradient(to right, green, red); /* Degradado de verde a rojo */
+}
